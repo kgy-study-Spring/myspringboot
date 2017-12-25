@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  context-path: /myspringboot
+name: kgy
+age: 24
+content: "name: ${name},age: ${age}"
+people: 
+  name: kgy
+  age: 23
